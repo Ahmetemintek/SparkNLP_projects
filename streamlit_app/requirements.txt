@@ -1,0 +1,7 @@
+pyspark==3.1.2
+spark-nlp==$PUBLIC_VERSION
+spark-nlp-jsl==$JSL_VERSION
+spark-nlp-display
+pandas
+json
+os
