@@ -2,7 +2,7 @@
 This project implements essential text pre-processing steps that can be applied to any NLP task. These steps are combined into a single, streamlined pipeline, making it easy to prepare raw text data for further NLP tasks.
 
 ### Files Included
-project_notebook.ipynb: The Jupyter notebook containing the complete code for the text pre-processing pipeline.
+text_preprocessing_pipeline.ipynb: The Jupyter notebook containing the complete code for the text pre-processing pipeline.
 data.csv: The dataset used in the project for demonstrating the pre-processing steps.
 ### Pre-processing Steps
 The pipeline includes the following basic text pre-processing techniques:
