@@ -1,11 +1,15 @@
-# Natural Language Processing Projects
-This repository contains my **Natural Language Processing (NLP)** projects developed using **PySpark** and **SparkNLP**. Each project folder includes relevant files and detailed explanations in their respective README files.
+# Natural Language Processing (NLP) Projects Showcase
+
+This repository showcases fundamental **Natural Language Processing (NLP)** projects implemented using **PySpark** and **SparkNLP**. 
+
+The goal of this repository is to provide simple examples that cover essential NLP concepts and their implementation with PySpark and SparkNLP. The projects included serve as a starting point for anyone looking to learn about NLP and understand the basic functionalities of PySpark and SparkNLP.
 
 ## Repository Structure
-- Each folder corresponds to a different NLP project.
-- Each folder contains: <br/>
-Project files (e.g., notebooks, scripts, datasets). <br/>
-A README file providing an overview of the project, methodology, and usage instructions. <br/>
+- Each folder corresponds to a different NLP task or technique.
+- Inside each project folder, you’ll find:
+  - Project files (e.g., Jupyter notebooks, Python scripts, datasets).
+  - A README file that gives an overview of the project, the methodology used, and how to execute the code.
 
-Feel free to explore each project to see the diverse applications of NLP using PySpark and SparkNLP!
+These projects aim to provide a **general introduction** to NLP with the help of **PySpark** and **SparkNLP**, covering fundamental operations like text processing, tokenization, named entity recognition, and more.
 
+Feel free to explore the different projects to gain insights into how NLP tasks are implemented using these powerful libraries!
